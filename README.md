@@ -67,6 +67,8 @@ When I looked at the data, I found it to be clean and ready for analysis. There 
 
 ![image](https://github.com/user-attachments/assets/5cee1001-d7ee-4d62-8b24-bb76593bd9eb)
 
+![image](https://github.com/user-attachments/assets/ee4ac827-5da0-44c5-a0d8-03e5d8192ca4)
+
 - **Analysis:** the average cost per click and the average click through rate was at peak during the Fall campaign. Followed closely by the Summer campaign.
 - 
 3.**Channel Effectiveness:**
