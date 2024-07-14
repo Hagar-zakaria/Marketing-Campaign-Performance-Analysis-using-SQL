@@ -121,17 +121,19 @@ When I looked at the data, I found it to be clean and ready for analysis. There 
 
 ![image](https://github.com/user-attachments/assets/6e29210a-7018-4ae2-8de4-80cf0f952a60)
 
-- **Analysis:** Discount Ads had the most clicks, while Collection Ads had higher impressions and conversions.
+- **Analysis:** analysis reveals that Discount Ad has more clicks, but impressions and conversions are higher in Collection Ad.
 
 7. **ROI Calculation:**
 
-- ROI for each campaign, channel, and device:
+- We understand that ROI is the profit made / cost of investment.
+
+**What is the ROI for each campaign, and how does it compare across different channels and devices?**
 
 ![image](https://github.com/user-attachments/assets/a86f5922-8f56-44bc-8b13-ab1ab3543616)
 
-![image](https://github.com/user-attachments/assets/4abd8d0d-b7c5-4028-a41c-bb5a178f450b)
+![image](https://github.com/user-attachments/assets/0be9c629-7a6f-4f7e-9f37-4c9d7e8ac9fe)
 
-- **Analysis:** analysis reveals that Discount Ad has more clicks, but impressions and conversions are higher in Collection Ad.
+- **Analysis:** ROI is highest via Pinterest, during the Summer campaign and on Desktop device. The least ROI was generated via Facebook, during the Fall Campaign and on mobile device.
 
 8. **Spend vs. Conversion:**
 
@@ -139,7 +141,9 @@ When I looked at the data, I found it to be clean and ready for analysis. There 
 
 ![image](https://github.com/user-attachments/assets/1c192534-6007-46b2-b894-5df66d8f9f55)
 
-- **Analysis:** Spend positively correlates with conversions, peaking during the Fall campaign.
+![image](https://github.com/user-attachments/assets/a1626e25-d6de-41a1-b8b2-36a3ed5940f8)
+
+- **Analysis:** The analysis vividly shows that the amount spent correlates positively with ‘conversion’ across all campaigns, i.e., they are both at their peaks during the Fall campaign and at their lowest in the Summer campaign.
 
 # Act
 # Recommendations:
